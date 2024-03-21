@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            string restaurantName= "Banyan Tree";
+            // Declare and initialize variables
+            string restaurantName = "Banyan Tree";
             int restaurantAge = 3;
 
             string person1Name = "Mary";
@@ -14,9 +15,10 @@
             int drinkingAge = 21;
             char initial = 'W';
             double drinkPrice = 12.50;
+            decimal morgatePayment = 3527.00m;
 
             bool isNice = true;
-
+            
             // Favorite restaurant
             Console.WriteLine($"One of my favorite restaurants is {restaurantName}. It has been around for {restaurantAge} years.\n");            
 
@@ -35,7 +37,6 @@
             }
 
             // Morgate
-            decimal morgatePayment = 3527.00m;
             Console.WriteLine($"{person2Name} pay ${morgatePayment} for morgate every month.\n");
 
             // Weather
