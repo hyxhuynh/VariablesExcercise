@@ -1,0 +1,14 @@
+C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\bin\Debug\net8.0\VariablesExcercise.exe
+C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\bin\Debug\net8.0\VariablesExcercise.deps.json
+C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\bin\Debug\net8.0\VariablesExcercise.runtimeconfig.json
+C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\bin\Debug\net8.0\VariablesExcercise.dll
+C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\bin\Debug\net8.0\VariablesExcercise.pdb
+C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\obj\Debug\net8.0\VariablesExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\obj\Debug\net8.0\VariablesExcercise.AssemblyInfoInputs.cache
+C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\obj\Debug\net8.0\VariablesExcercise.AssemblyInfo.cs
+C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\obj\Debug\net8.0\VariablesExcercise.csproj.CoreCompileInputs.cache
+C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\obj\Debug\net8.0\VariablesExcercise.dll
+C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\obj\Debug\net8.0\refint\VariablesExcercise.dll
+C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\obj\Debug\net8.0\VariablesExcercise.pdb
+C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\obj\Debug\net8.0\VariablesExcercise.genruntimeconfig.cache
+C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\obj\Debug\net8.0\ref\VariablesExcercise.dll
