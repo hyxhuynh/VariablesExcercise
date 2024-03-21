@@ -12,3 +12,4 @@ C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\obj\Debug\net8
 C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\obj\Debug\net8.0\VariablesExcercise.pdb
 C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\obj\Debug\net8.0\VariablesExcercise.genruntimeconfig.cache
 C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\obj\Debug\net8.0\ref\VariablesExcercise.dll
+C:\HyHuynh\TrueCoders\repos\VariablesExcercise\VariablesExcercise\obj\Debug\net8.0\VariablesExcercise.sourcelink.json
